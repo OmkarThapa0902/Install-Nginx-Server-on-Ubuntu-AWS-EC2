@@ -1,7 +1,7 @@
 # Install-Nginx-Server-on-Ubuntu-AWS-EC2-
 
 ## Complete Step-by-Step Guide
-
+This guide provides detailed instructions for setting up an Nginx web server on an Ubuntu EC2 instance hosted on AWS. Following these steps will allow you to deploy a basic web server, access it via your browser, and ensure it runs on system startup.
 ### Step 1: Launch an EC2 Instance
 
 1. Go to the EC2 Console.
